@@ -4,8 +4,11 @@ import pandas as pd
 #     "Name":["Akshay","Yash","Rudra","Sahal","Farhan","Anas","Prgyan","Badal"],
 #     "Age":[18,23,24,24,24,24,24,24],
 #     "Performance": [78,98,78,90,98,78,98,78]
-
+#
 # }
+#
+# df = pd.DataFrame(info)
+# print(df)
 
 df = pd.read_csv("employees.csv")
 print(df)
