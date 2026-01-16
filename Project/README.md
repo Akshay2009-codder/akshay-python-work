@@ -1,24 +1,73 @@
-# Data Cleaning & Analysis Project – Akshay 📊
+# Python Projects – Akshay 🚀
 
-This project is based on **data cleaning and transformation** using **NumPy and Pandas**.  
-In this project, I worked with a **dataset (database)**, cleaned the data, handled incorrect and missing values, and created **new meaningful columns** for better analysis.
-
----
-
-## About This Project
-- Project is **self-developed**
-- Focused on:
-  - Real-world style data preprocessing
-  - Cleaning raw and imperfect data
-  - Transforming data into usable format
-- Implements practical usage of NumPy and Pandas
+This folder contains multiple **Python-based projects** developed by me during my learning journey.  
+These projects demonstrate my skills in **Python programming, NumPy, Pandas, and practical problem-solving**, including both **data-based** and **application-based** projects.
 
 ---
 
-## Work Done in This Project
-- Loaded dataset using Pandas
-- Inspected data structure and quality
-- Handled missing values
-- Corrected wrong or inconsistent data
-- Created new derived columns from existing data
-- Used NumPy operations where requir
+## 📂 Projects Included
+
+### 1️⃣ Data Cleaning & Preprocessing Project
+- Worked with a real-world style dataset
+- Cleaned and processed raw data using **Pandas and NumPy**
+- Handled:
+  - Missing values
+  - Incorrect data
+  - Data type issues
+- Created new derived columns for better analysis
+- Prepared clean data for further analysis or Machine Learning use
+
+**Technologies used:** Python, NumPy, Pandas
+
+---
+
+### 2️⃣ Flappy Bird Game 🐦
+- Developed a Flappy Bird–style game using **Python**
+- Implemented:
+  - Game loop
+  - Player movement
+  - Collision detection
+  - Score tracking
+- Focused on logic building and understanding game mechanics
+
+**Technologies used:** Python (game development concepts)
+
+---
+
+### 3️⃣ Akhbar Padhke Sunao 📰🔊
+- A Python-based project that reads news content and converts it into **audio**
+- Demonstrates use of:
+  - Text processing
+  - Text-to-speech concepts
+- Built to improve understanding of real-life utility-based applications
+
+**Technologies used:** Python, text processing, text-to-speech concepts
+
+---
+
+## 🎯 Purpose of These Projects
+- Apply Python concepts in real scenarios
+- Improve logic and problem-solving skills
+- Gain hands-on experience beyond theory
+- Build a strong foundation for **Machine Learning and Software Development**
+
+---
+
+## 🚀 Technologies Used Overall
+- Python 🐍
+- NumPy
+- Pandas
+
+---
+
+## 🔮 Future Plans
+- Improve existing projects
+- Add documentation and enhancements
+- Include Machine Learning–based projects
+- Optimize code structure and performance
+
+---
+
+## 👨‍💻 Author
+**Akshay**  
+Diploma in IT | Python Learner | Aspiring Machine Learning Engineer
