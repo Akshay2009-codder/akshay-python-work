@@ -20,13 +20,6 @@ It reflects my hands-on practice with **Python, NumPy, Pandas**, and problem-sol
   - Data cleaning
   - Basic data analysis operations
 
-### 🔹 numpy_lerning
-- Practice programs for NumPy.
-- Covers:
-  - Arrays
-  - Array operations
-  - Mathematical and statistical functions
-  - Basic numerical computing concepts
 
 
 ### 🔹 Project
@@ -46,5 +39,5 @@ It reflects my hands-on practice with **Python, NumPy, Pandas**, and problem-sol
 
 
 ## Author
-** Akshay **  
+ Akshay  
 Diploma in IT | Python Learner | Aspiring ML Engineer
