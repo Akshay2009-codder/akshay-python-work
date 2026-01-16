@@ -5,138 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4b73406-9b79-465c-ab1d-ce4d20408af1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python Practice/drs system.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Practice/important files" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Practice/rohan workout" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Practice/sahal workout" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Practice/student_ml_data_pipeline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practice/abstrack base - Copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practice/advance class - Copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practice/advance_list_slicing - Copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practice/akhbar_padhke_sunao - Copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practice/employee_performance_ml_pipeline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practice/frequncie of words - Copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practice/function caching - Copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practice/genratorss - Copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practice/raise - Copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practice/reduce_function - Copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practice/regular expreson - Copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practice/remove duplicate from list - Copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practice/try - Copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practice/try_in_file_handling - Copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practice/unique_pelindrom - Copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practice/unique_string - Copy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project/Student_Data_Anlyze.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Student_Data_Anlyze.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project/student_performance_cleaned.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Project/student_performance_cleaned.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/.idea/practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/.idea/practice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/BINARY SERCH.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/BINARY SERCH.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/DIAMONDSHAP_PROBLEM.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/DIAMONDSHAP_PROBLEM.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/Practice pythone 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/Practice pythone 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/abstrack base.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/abstrack base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/advance class.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/advance class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/advance_list_slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/advance_list_slicing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/akhbar_padhke_sunao.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/akhbar_padhke_sunao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/apeend vs insert.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/apeend vs insert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/armstrong  number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/armstrong  number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/background.png" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/background.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/banking system.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/banking system.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/bird.png" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/bird.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/bisect module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/bisect module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/buble sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/buble sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/cappitlizeing_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/cappitlizeing_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/class report.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/class report.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/comand line utility.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/comand line utility.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/corutins.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/corutins.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/curenci convertor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/curenci convertor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/currancyData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/currancyData.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/cws codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/PANDAS/student_data_merge_analysis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/dict mag.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/dict mag.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/die.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/die.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/downloading data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/downloading data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/drinking water notify.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/drinking water notify.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/drs system.py" beforeDir="false" afterPath="$PROJECT_DIR$/PANDAS/student_datetime_analysis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/else with for.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/else with for.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/email collactor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/email collactor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/emails_collector_output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/emails_collector_output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/employ data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/employ data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/enumeret function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/enumeret function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/exeption_zero_error.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/exeption_zero_error.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/exercise.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/exercise.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/eyes.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/eyes.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/factorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/faulting_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/faulting_calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/file3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/file3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/filter function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/filter function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/find from dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/find from dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/first class.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/first class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/flappy bird game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/flappy bird game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/formate function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/formate function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/frequncie of words.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/frequncie of words.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/function caching.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/function caching.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/genratorss.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/genratorss.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/helth managment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/helth managment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/helthy programmer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/helthy programmer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/helthy__log.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/helthy__log.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/hit.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/hit.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/hotel system.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/hotel system.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/important files" beforeDir="false" afterPath="$PROJECT_DIR$/PANDAS/student_duplicate_analysis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/info.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/info.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/insertion sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/insertion sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/inspact module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/inspact module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/jarvis_ai.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/jarvis_ai.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/join function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/join function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/json_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/json_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/jumbalin_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/jumbalin_name.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/lemda_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/lemda_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/library book class.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/library book class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/library system.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/library system.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/list in class.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/list in class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/list_next_pelindrom.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/list_next_pelindrom.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/list_sum_is_prime.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/list_sum_is_prime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/map function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/map function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/marks initialize class.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/marks initialize class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/matrix multiple nested.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/matrix multiple nested.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/message.png" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/message.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/money manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/money manager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/multy inheritence.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/multy inheritence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/multy_table_using_list_complihason.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/multy_table_using_list_complihason.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/mylog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/mylog.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/names.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/names.pickle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/next_pelindrom_chacker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/next_pelindrom_chacker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/number gussing game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/number gussing game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/number_gusse_a-b.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/number_gusse_a-b.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/ord function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/ord function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/os module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/os module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/overloading  and dunder method.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/overloading  and dunder method.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/pass  cracker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/pass  cracker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/pattern task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/pattern task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/pickel module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/pickel module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/pipe.png" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/pipe.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/plus_one.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/plus_one.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/point.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/point.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/polymerphisom.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/polymerphisom.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/postfix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/postfix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/practical 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/practical 3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/providing_apple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/providing_apple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/public  private protected var.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/public  private protected var.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/raise.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/raise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/reduce_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/reduce_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/regular expreson.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/regular expreson.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/remove duplicate from list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/remove duplicate from list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/rohan diat" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/rohan diat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/rohan workout" beforeDir="false" afterPath="$PROJECT_DIR$/PANDAS/student_loc_iloc_filtering.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/sahal diat" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/sahal diat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/sahal workout" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/cws codes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/saying info.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/saying info.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/search_engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/search_engine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/selection sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/selection sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/set operation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/set operation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/setter and property decoration.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/setter and property decoration.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/simple class.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/simple class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/single inheritence.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/single inheritence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/snack water gun game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/snack water gun game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/sorted_list --leet code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/sorted_list --leet code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/sqrt(x).py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/sqrt(x).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/super and overloading in class.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/super and overloading in class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/swoosh.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/swoosh.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/task1_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/task1_class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/task_enumaret.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/task_enumaret.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/toInt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/toInt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/try.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/try.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/try_in_file_handling.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/try_in_file_handling.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/unique_pelindrom.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/unique_pelindrom.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/unique_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/unique_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/water.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/water.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/wing.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/wing.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Practice/student_ml_data_pipeline.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/student_ml_data_pipeline.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,8 +40,25 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Akshay2009-codder&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Akshay2009-codder/akshay-python-work.git&quot;,
+    &quot;accountId&quot;: &quot;ace0d0d0-d6be-4c2a-83da-8b4677c7bb5c&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -165,147 +70,147 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.BINARY SERCH.executor": "Run",
-    "Python.GCD finder.executor": "Run",
-    "Python.Groccery managment.executor": "Run",
-    "Python.RSA crepto.executor": "Run",
-    "Python.Student_Data_Anlyze.executor": "Run",
-    "Python.Trafic analyzer.executor": "Run",
-    "Python.about_age_calculation.executor": "Run",
-    "Python.about_data.executor": "Run",
-    "Python.akhbar_padhke_sunao.executor": "Run",
-    "Python.analyzing.executor": "Run",
-    "Python.animation_ppt.executor": "Run",
-    "Python.apeend vs insert.executor": "Run",
-    "Python.armstrong  number.executor": "Run",
-    "Python.bainary serch.executor": "Run",
-    "Python.buble sort.executor": "Run",
-    "Python.calender.executor": "Run",
-    "Python.cappitlizeing_file.executor": "Run",
-    "Python.class report.executor": "Run",
-    "Python.class task.executor": "Run",
-    "Python.comand line utility.executor": "Run",
-    "Python.conditions.executor": "Run",
-    "Python.contain duplicate.executor": "Run",
-    "Python.crepto.executor": "Run",
-    "Python.decimal to all unother numbers.executor": "Run",
-    "Python.decimal to bainory.executor": "Run",
-    "Python.discounting.executor": "Run",
-    "Python.downloading data.executor": "Run",
-    "Python.drinking water notify.executor": "Run",
-    "Python.email collactor.executor": "Run",
-    "Python.encryption.executor": "Run",
-    "Python.extended method GCD.executor": "Run",
-    "Python.fact fainder.executor": "Run",
-    "Python.fact recorsion.executor": "Run",
-    "Python.factorial finder.executor": "Run",
-    "Python.fibbonoci series.executor": "Run",
-    "Python.filling_value.executor": "Run",
-    "Python.finding_null.executor": "Run",
-    "Python.flappy bird game.executor": "Run",
-    "Python.frequncie of words.executor": "Run",
-    "Python.grouping.executor": "Run",
-    "Python.hcf finder.executor": "Run",
-    "Python.implimention class.executor": "Run",
-    "Python.infix to postfix.executor": "Run",
-    "Python.insert node in biginig.executor": "Run",
-    "Python.insert.executor": "Run",
-    "Python.insert_in_2d.executor": "Run",
-    "Python.insertion sort.executor": "Run",
-    "Python.interpolet_method.executor": "Run",
-    "Python.jarvis_ai.executor": "Run",
-    "Python.jumbalin_name.executor": "Run",
-    "Python.lenth of last.executor": "Run",
-    "Python.library system.executor": "Run",
-    "Python.linear serch.executor": "Run",
-    "Python.list in class.executor": "Run",
-    "Python.list_next_pelindrom.executor": "Run",
-    "Python.list_sum_is_prime.executor": "Run",
-    "Python.loc_iloc.executor": "Run",
-    "Python.longest comean prefix.executor": "Run",
-    "Python.magic_squre.executor": "Run",
-    "Python.majority element.executor": "Run",
-    "Python.making_csv.executor": "Run",
-    "Python.marks_analyzing.executor": "Run",
-    "Python.matrix multiple nested.executor": "Run",
-    "Python.matrix multiplication.executor": "Run",
-    "Python.mearging.executor": "Run",
-    "Python.missing_value_handling.executor": "Run",
-    "Python.multiplle matrix.executor": "Run",
-    "Python.multiply string.executor": "Run",
-    "Python.multy_grouping.executor": "Run",
-    "Python.music manager.executor": "Run",
-    "Python.next_pelindrom_chacker.executor": "Run",
-    "Python.number_gusse_a-b.executor": "Run",
-    "Python.numpy_lesson1_task.executor": "Run",
-    "Python.numpy_lesson2_task.executor": "Run",
-    "Python.numpy_lesson3_task.executor": "Run",
-    "Python.numpy_lesson4_task.executor": "Run",
-    "Python.numpy_lesson5_task.executor": "Run",
-    "Python.numpy_power_tasks.executor": "Run",
-    "Python.ord function.executor": "Run",
-    "Python.pandas_null_task.executor": "Run",
-    "Python.pandas_task_02_filtering.executor": "Run",
-    "Python.pandas_task_03_missing_values.executor": "Run",
-    "Python.pandas_task_04_encoding.executor": "Run",
-    "Python.pandas_task_05_train_test_split.executor": "Run",
-    "Python.pass  cracker.executor": "Run",
-    "Python.password manager.executor": "Run",
-    "Python.pickel module.executor": "Run",
-    "Python.plus_one.executor": "Run",
-    "Python.private method.executor": "Run",
-    "Python.providing_apple.executor": "Run",
-    "Python.queue.executor": "Run",
-    "Python.raise.executor": "Run",
-    "Python.reading.executor": "Run",
-    "Python.reguler_expreson.executor": "Run",
-    "Python.remove duplicate from list.executor": "Run",
-    "Python.saying info.executor": "Run",
-    "Python.search_engine.executor": "Run",
-    "Python.selection sort.executor": "Run",
-    "Python.serise.executor": "Run",
-    "Python.set metrics zero.executor": "Run",
-    "Python.set operation.executor": "Run",
-    "Python.shuffling Deck.executor": "Run",
-    "Python.single num.executor": "Run",
-    "Python.sorted_list --leet code.executor": "Run",
-    "Python.sorting.executor": "Run",
-    "Python.sqrt(x).executor": "Run",
-    "Python.stack.executor": "Run",
-    "Python.stack_evolution.executor": "Run",
-    "Python.student_anlyz.executor": "Run",
-    "Python.student_data_merge_analysis.executor": "Run",
-    "Python.student_datetime_analysis.executor": "Run",
-    "Python.student_duplicate_analysis.executor": "Run",
-    "Python.student_index_management.executor": "Run",
-    "Python.student_loc_iloc_filtering.executor": "Run",
-    "Python.student_marks_analysis_groupby.executor": "Run",
-    "Python.student_ml_data_pipeline.executor": "Run",
-    "Python.superman billing.executor": "Run",
-    "Python.task1.executor": "Run",
-    "Python.toInt.executor": "Run",
-    "Python.topics.executor": "Run",
-    "Python.uniqe sum finder.executor": "Run",
-    "Python.unique list.executor": "Run",
-    "Python.unique_pelindrom.executor": "Run",
-    "Python.unique_string.executor": "Run",
-    "Python.updating.executor": "Run",
-    "Python.weather_analyzing.executor": "Run",
-    "Python.wether.executor": "Run",
-    "Python.word gussig game.executor": "Run",
-    "Python.word manager.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/hp/OneDrive/Documents/Akshay python work/PANDAS",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.BINARY SERCH.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GCD finder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Groccery managment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RSA crepto.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Student_Data_Anlyze.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Trafic analyzer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.about_age_calculation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.about_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.akhbar_padhke_sunao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.analyzing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.animation_ppt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.apeend vs insert.executor&quot;: &quot;Run&quot;,
+    &quot;Python.armstrong  number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bainary serch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.buble sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calender.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cappitlizeing_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class report.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.comand line utility.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conditions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.contain duplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.crepto.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decimal to all unother numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decimal to bainory.executor&quot;: &quot;Run&quot;,
+    &quot;Python.discounting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.downloading data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.drinking water notify.executor&quot;: &quot;Run&quot;,
+    &quot;Python.email collactor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.encryption.executor&quot;: &quot;Run&quot;,
+    &quot;Python.extended method GCD.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fact fainder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fact recorsion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorial finder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fibbonoci series.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filling_value.executor&quot;: &quot;Run&quot;,
+    &quot;Python.finding_null.executor&quot;: &quot;Run&quot;,
+    &quot;Python.flappy bird game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.frequncie of words.executor&quot;: &quot;Run&quot;,
+    &quot;Python.grouping.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hcf finder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.implimention class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.infix to postfix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.insert node in biginig.executor&quot;: &quot;Run&quot;,
+    &quot;Python.insert.executor&quot;: &quot;Run&quot;,
+    &quot;Python.insert_in_2d.executor&quot;: &quot;Run&quot;,
+    &quot;Python.insertion sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.interpolet_method.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jarvis_ai.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jumbalin_name.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lenth of last.executor&quot;: &quot;Run&quot;,
+    &quot;Python.library system.executor&quot;: &quot;Run&quot;,
+    &quot;Python.linear serch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list in class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_next_pelindrom.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_sum_is_prime.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loc_iloc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.longest comean prefix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.magic_squre.executor&quot;: &quot;Run&quot;,
+    &quot;Python.majority element.executor&quot;: &quot;Run&quot;,
+    &quot;Python.making_csv.executor&quot;: &quot;Run&quot;,
+    &quot;Python.marks_analyzing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matrix multiple nested.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matrix multiplication.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mearging.executor&quot;: &quot;Run&quot;,
+    &quot;Python.missing_value_handling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multiplle matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multiply string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multy_grouping.executor&quot;: &quot;Run&quot;,
+    &quot;Python.music manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.next_pelindrom_chacker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.number_gusse_a-b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numpy_lesson1_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numpy_lesson2_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numpy_lesson3_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numpy_lesson4_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numpy_lesson5_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numpy_power_tasks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ord function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pandas_null_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pandas_task_02_filtering.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pandas_task_03_missing_values.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pandas_task_04_encoding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pandas_task_05_train_test_split.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pass  cracker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.password manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pickel module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.plus_one.executor&quot;: &quot;Run&quot;,
+    &quot;Python.private method.executor&quot;: &quot;Run&quot;,
+    &quot;Python.providing_apple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.queue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.raise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reading.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reguler_expreson.executor&quot;: &quot;Run&quot;,
+    &quot;Python.remove duplicate from list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.saying info.executor&quot;: &quot;Run&quot;,
+    &quot;Python.search_engine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.selection sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.serise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set metrics zero.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set operation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.shuffling Deck.executor&quot;: &quot;Run&quot;,
+    &quot;Python.single num.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sorted_list --leet code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sorting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sqrt(x).executor&quot;: &quot;Run&quot;,
+    &quot;Python.stack.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stack_evolution.executor&quot;: &quot;Run&quot;,
+    &quot;Python.student_anlyz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.student_data_merge_analysis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.student_datetime_analysis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.student_duplicate_analysis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.student_index_management.executor&quot;: &quot;Run&quot;,
+    &quot;Python.student_loc_iloc_filtering.executor&quot;: &quot;Run&quot;,
+    &quot;Python.student_marks_analysis_groupby.executor&quot;: &quot;Run&quot;,
+    &quot;Python.student_ml_data_pipeline.executor&quot;: &quot;Run&quot;,
+    &quot;Python.superman billing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.toInt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.topics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.uniqe sum finder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.unique list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.unique_pelindrom.executor&quot;: &quot;Run&quot;,
+    &quot;Python.unique_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.updating.executor&quot;: &quot;Run&quot;,
+    &quot;Python.weather_analyzing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wether.executor&quot;: &quot;Run&quot;,
+    &quot;Python.word gussig game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.word manager.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Python-Practice&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hp/OneDrive/Documents/Akshay python work&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\hp\OneDrive\Documents\Akshay python work\PANDAS" />
@@ -335,6 +240,17 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -352,11 +268,6 @@
           <url>file://$PROJECT_DIR$/PANDAS/loc_iloc.py</url>
           <line>19</line>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Python Practice/student_ml_data_pipeline.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

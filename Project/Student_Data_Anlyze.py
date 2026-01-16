@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from pandas import get_dummies
+
 
 data = pd.read_csv("Student_performance.csv")
 

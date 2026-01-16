@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 
+# ================= RAW DATA =================
 data = {
     "Student_ID": [101, 102, 103, 104, 105, 101, 106, 107, 108, 109, 110, 111],
     "Student_Name": ["Aman", "Riya", "Kunal", "Meena", "Arjun", "Aman", "Sonal", "Ravi", "Neha", "Pooja", "Dev", "Isha"],
@@ -15,38 +16,53 @@ data = {
 
 df = pd.DataFrame(data)
 
-# information about data
+# ================= INVALID VALUE HANDLING =================
+subjects = ["Maths", "Science", "English"]
 
-print(df.info())
+for col in subjects:
+    df[col] = df[col].where(df[col].between(0, 100), np.nan)
 
-# filling null value
+# ================= DUPLICATE HANDLING =================
+df = df.sort_values(by=subjects, ascending=False)
+df = df.drop_duplicates(subset="Student_ID", keep="first")
 
-df["Maths"] = df["Maths"].fillna(df["Maths"].mean())
-df["Science"] = df["Science"].fillna(df["Science"].mean())
-df["English"] = df["English"].fillna(df["English"].mean())
+# ================= FILL MISSING VALUES =================
+for col in subjects:
+    df[col] = df[col].fillna(df[col].mean())
 
-# fixing invalid value
+# ================= NUMPY VALIDATION =================
+marks_array = df[subjects].to_numpy()
 
-df["Maths"] = df["Maths"].clip(lower=0, upper=100)
-df["Science"] = df["Science"].clip(lower=0, upper=100)
-df["English"] = df["English"].clip(lower=0, upper=100)
+subject_means = np.nanmean(marks_array, axis=0)
+subject_stds = np.nanstd(marks_array, axis=0)
 
-# deleting duplicates
+# ================= DATETIME HANDLING =================
+df["Join_Date"] = pd.to_datetime(df["Join_Date"])
+df["Join_Year"] = df["Join_Date"].dt.year
+df["Join_Month"] = df["Join_Date"].dt.month
 
-data.drop_duplicates(inplace=True)
+# ================= FEATURE ENGINEERING =================
+df["Total_Marks"] = df[subjects].sum(axis=1)
+df["Average_Marks"] = df[subjects].mean(axis=1)
 
-# total marks
-
-df["Total_Marks"] = df["Maths","Science","English"].sum(axis=1)
-
-# Average marks
-
-df["Average_Marks"] = df["Maths","Science","English"].mean(axis=1)
-
-#result
-
-df["Result"] = df["Maths","Science","English"].apply(
-    lambda row : "pass" if all(marks>=35 for marks in row) else "fail",
-    axis = 1
+df["Result"] = df["Average_Marks"].apply(
+    lambda x: "Pass" if x >= 40 else "Fail"
 )
 
+# ================= RANKING =================
+df["Rank"] = df["Total_Marks"].rank(method="dense", ascending=False)
+
+# ================= AGGREGATION =================
+city_avg = df.groupby("City")["Average_Marks"].mean()
+
+# ================= TOP STUDENTS =================
+top_students = df.nlargest(3, "Total_Marks")
+
+# ================= FINAL OUTPUT =================
+print(df)
+print("\nCity-wise Average Marks:\n", city_avg)
+print("\nTop 3 Students:\n", top_students)
+print("\nSubject Means (NumPy):", subject_means)
+print("Subject Std Dev (NumPy):", subject_stds)
+print("\nFinal Shape:", df.shape)
+print(df.info())
