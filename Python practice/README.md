@@ -2,7 +2,7 @@
 
 This folder contains my **Python practice work** created during my learning journey.
 
-It includes practice files and exercises that help me understand **core Python concepts**, improve **logic building**, and strengthen my **problem-solving skills**.
+It includes practice files covering **basic to advanced Python concepts**, helping me improve **logic building**, **object-oriented programming**, and **problem-solving skills**.
 
 ---
 
@@ -21,8 +21,16 @@ It includes practice files and exercises that help me understand **core Python c
 
 ### 🔹 Functions
 - Defining and calling functions  
-- Function arguments  
-- Return values  
+- Arguments and return values  
+- Lambda functions  
+
+### 🔹 Object-Oriented Programming (OOPs)
+- Classes and objects  
+- Constructors (`__init__`)  
+- Inheritance  
+- Polymorphism  
+- Encapsulation  
+- Abstraction  
 
 ### 🔹 Data Structures
 - Lists  
@@ -31,19 +39,25 @@ It includes practice files and exercises that help me understand **core Python c
 - Sets  
 
 ### 🔹 File Handling
-- Reading files  
-- Writing files  
+- Reading and writing files  
 
 ### 🔹 Exception Handling
 - try, except, finally  
+- Custom exceptions  
+
+### 🔹 Advanced Python
+- Modules and packages  
+- Iterators and generators  
+- Decorators  
+- Virtual environments  
 
 ---
 
 ## 🎯 Purpose of This Practice
-- Build a strong foundation in **Python programming**  
-- Improve logical thinking  
-- Prepare for **projects**, **interviews**, and **advanced topics**  
-- Gain confidence by writing code regularly  
+- Strengthen **core Python fundamentals**  
+- Gain confidence in **OOP concepts**  
+- Improve logical thinking and code structure  
+- Prepare for **projects**, **Machine Learning**, and **Software Development**  
 
 ---
 
@@ -53,10 +67,10 @@ It includes practice files and exercises that help me understand **core Python c
 ---
 
 ## 🔮 Future Practice Plans
-- Advanced Python concepts  
-- Object-Oriented Programming (OOP)  
-- Practice with NumPy and Pandas  
-- Problem-solving and mini tasks  
+- Data analysis with NumPy and Pandas  
+- Machine Learning basics  
+- Competitive programming practice  
+- Code optimization and best practices  
 
 ---
 
