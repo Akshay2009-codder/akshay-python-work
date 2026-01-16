@@ -21,11 +21,24 @@ It reflects my hands-on practice with **Python, NumPy, Pandas**, and problem-sol
   - Basic data analysis operations
 
 
-
 ### 🔹 Project
 - Contains my Python project.
 - Demonstrates practical use of Python libraries and concepts.
 - Shows how theory is applied to real-world-style problems.
+
+---
+
+### 🔹 PYTHON PRACTICE
+- Basics (variables, data types, input/output)
+- Control Flow (if-else, loops, break/continue)
+- Data Structures (list, tuple, set, dictionary)
+- Functions (arguments, return values, recursion, lambda)
+- Object-Oriented Programming (classes, objects, inheritance, polymorphism)
+- File Handling (read/write files, CSV handling)
+- Exception Handling (try-except, custom exceptions)
+- Modules and Packages
+- Logic Building Problems
+- Mixed Practice Problems
 
 ---
 
