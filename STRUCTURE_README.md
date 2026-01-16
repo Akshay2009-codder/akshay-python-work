@@ -28,16 +28,6 @@ It reflects my hands-on practice with **Python, NumPy, Pandas**, and problem-sol
   - Mathematical and statistical functions
   - Basic numerical computing concepts
 
-### 🔹 practice
-- General Python practice codes.
-- Includes:
-  - Logic building
-  - Small experiments
-  - Concept testing
-
-### 🔹 class work
-- Codes written during college/class learning.
-- Useful for revision and academic reference.
 
 ### 🔹 Project
 - Contains my Python project.
@@ -56,5 +46,5 @@ It reflects my hands-on practice with **Python, NumPy, Pandas**, and problem-sol
 
 
 ## Author
-Akshay   
+** Akshay **  
 Diploma in IT | Python Learner | Aspiring ML Engineer
