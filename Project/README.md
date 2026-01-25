@@ -1,70 +1,62 @@
-# Python Projects – Akshay 🚀
+# Python Projects – Akshay 🚀 This folder contains multiple **Python-based projects** developed by me during my learning journey. These projects demonstrate my skills in **Python programming, NumPy, Pandas, and practical problem-solving**, including both **data-based** and **application-based** projects.
 
-This folder contains multiple **Python-based projects** developed by me during my learning journey.  
-These projects demonstrate my skills in **Python programming, NumPy, Pandas, and practical problem-solving**, including both **data-based** and **application-based** projects.
+This project is part of my Python learning journey and focuses on **cleaning, analyzing, and visualizing Netflix data** using Python.  
+It demonstrates how raw data can be processed and transformed into meaningful insights using simple and intermediate-level concepts.
 
 ---
 
-## 📂 Projects Included
+## 📂 Projects in This Repository
 
-### 1️⃣ Data Cleaning & Preprocessing Project
+### 1️⃣ Flappy Bird Game 🐦
+- Developed a Flappy Bird–style game using Python
+- Implemented core game logic such as movement, collision handling, and score tracking
+- Strengthened understanding of loops, conditions, and real-time logic
+
+**Technologies used:** Python
+
+---
+
+### 2️⃣ Data Cleaning & Preprocessing Project
 - Worked with a real-world style dataset
-- Cleaned and processed raw data using **Pandas and NumPy**
-- Handled:
-  - Missing values
-  - Incorrect data
-  - Data type issues
-- Created new derived columns for better analysis
-- Prepared clean data for further analysis or Machine Learning use
+- Cleaned and prepared raw data using Pandas and NumPy
+- Handled missing values, duplicates, and incorrect data types
+- Created derived columns for better analysis
 
-**Technologies used:** Python, NumPy, Pandas
+**Technologies used:** Python, Pandas, NumPy
 
 ---
 
-### 2️⃣ Flappy Bird Game 🐦
-- Developed a Flappy Bird–style game using **Python**
-- Implemented:
-  - Game loop
-  - Player movement
-  - Collision detection
-  - Score tracking
-- Focused on logic building and understanding game mechanics
+### 3️⃣ Netflix Data Visualization Project 📺
+- Analyzed a Netflix dataset containing movies and TV shows
+- Performed data cleaning before visualization
+- Explored trends related to content, ratings, countries, genres, and release years
+- Visualized insights using multiple charts and subplot comparisons
 
-**Technologies used:** Python (game development concepts)
+**Technologies used:** Python, Pandas, Matplotlib
 
 ---
 
-### 3️⃣ Akhbar Padhke Sunao 📰🔊
-- A Python-based project that reads news content and converts it into **audio**
-- Demonstrates use of:
-  - Text processing
-  - Text-to-speech concepts
-- Built to improve understanding of real-life utility-based applications
-
-**Technologies used:** Python, text processing, text-to-speech concepts
+## 🎯 Project Objectives
+- Apply Python concepts to real datasets
+- Understand the complete data analysis workflow
+- Improve data cleaning and visualization skills
+- Build a foundation for Machine Learning projects
 
 ---
 
-## 🎯 Purpose of These Projects
-- Apply Python concepts in real scenarios
-- Improve logic and problem-solving skills
-- Gain hands-on experience beyond theory
-- Build a strong foundation for **Machine Learning and Software Development**
-
----
-
-## 🚀 Technologies Used Overall
+## 🚀 Technologies Used
 - Python 🐍
-- NumPy
 - Pandas
+- NumPy
+- Matplotlib
 
 ---
 
-## 🔮 Future Plans
-- Improve existing projects
-- Add documentation and enhancements
+## 🔮 Future Improvements
+- Add more datasets for analysis
+- Enhance visual clarity and structure
 - Include Machine Learning–based projects
-- Optimize code structure and performance
+- Improve documentation and project organization
 
 ---
 
