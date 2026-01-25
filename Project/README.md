@@ -1,4 +1,4 @@
-# Python Projects – Akshay 🚀 This folder contains multiple **Python-based projects** developed by me during my learning journey. These projects demonstrate my skills in **Python programming, NumPy, Pandas, and practical problem-solving**, including both **data-based** and **application-based** projects.
+# Python Projects – Akshay 🚀 
 
 This project is part of my Python learning journey and focuses on **cleaning, analyzing, and visualizing Netflix data** using Python.  
 It demonstrates how raw data can be processed and transformed into meaningful insights using simple and intermediate-level concepts.
