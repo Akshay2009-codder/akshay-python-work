@@ -52,6 +52,14 @@ It reflects my hands-on practice with **Python, NumPy, Pandas**, and **Machine L
 
 ---
 
+## 📂 DATA VISUALIZATION
+
+### 🔹MATPLOTLOB
+
+- matplotlib practice codes 
+
+---
+
 ### 🔹 PROJECT
 - Contains my Python projects.
 - Demonstrates practical use of Python libraries and concepts.
